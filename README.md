@@ -9,4 +9,4 @@ If you are planning to provide your own content for this pane, the HTML file in 
 
 ### Requirements:
 * A webserver that hosts the html file ([IIS](https://www.iis.net), [Apache](https://httpd.apache.org), [Nginx](https://www.nginx.com), etc.)
-* Tableau Desktop configured to point to the URL of the HTML on the webserver
+* Tableau Desktop (v2020.1 or higher) configured to point to the URL of the HTML on the webserver
